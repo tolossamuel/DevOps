@@ -58,7 +58,7 @@ function App() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12">
           <div className="flex-1 space-y-6">
             <div className="inline-block px-4 py-1.5 bg-brand-100 text-brand-600 rounded-full text-sm font-semibold tracking-wide">
-              Assignment Presentation • App 12, 2026
+              Assignment Presentation • Apr 12, 2026
             </div>
             <h1 className="text-5xl md:text-7xl font-extrabold text-slate-900 tracking-tight leading-tight">
               Introduction to <br />
