@@ -1,9 +1,7 @@
 # DevOps Presentation App
 
 This is a single-page React application built with **Vite, React, and Tailwind CSS**. It is designed with clean architecture and modern UI principles to serve as a presentation and demo for your DevOps assignment.
-
 ## Features
-
 - **Modern UI Design**: Tailwind CSS, clean components, fully responsive.
 - **Assignment Topics Covered**: Introduction to DevOps, Core Principles, Lifecycle, Tools, Benefits & Challenges, and a Real-World Case Study (Netflix).
 - **Built for CI/CD**: Ready to be pushed to GitHub and automatically deployed.
